@@ -1,0 +1,9 @@
+Zahid AI Studio — GitHub Upload Checklist
+
+[ ] GitHub account
+[ ] New repository بنایا
+[ ] ZIP extract کیا
+[ ] تمام files upload کیں
+[ ] .github/workflows/build-apk.yml بھی upload ہوا
+[ ] Actions میں Build Zahid AI Studio APK چلایا
+[ ] Build مکمل ہونے کے بعد Artifacts سے APK download کیا
